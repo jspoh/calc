@@ -1,4 +1,6 @@
 # calc
+Do not use. Realised that limiting the total number of chars displayed messes up the accuracy big time.
+
 calculator with click UI
 
 Painstakingly made this with pygame as I somehow hadn't heard of dedicated GUI builders such as PySimpleGUI, tkinter etc then. 
